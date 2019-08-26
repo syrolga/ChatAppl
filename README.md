@@ -2,9 +2,11 @@
 
 Notice: no Intergration tests, no Web client, no tests for Rest.
 
-src\main\java\com\chatapp\app\Demo.java - contains demo of Dao
-src\test\java\com\chatapp\entity\dao\impl\* - Unit tests for Dao
-src\main\java\com\chatapp\controller\UserController.java - Web service 
+src\main\java\com\chatapp\app\Demo.java - contains demo of Dao;
+
+src\test\java\com\chatapp\entity\dao\impl\* - Unit tests for Dao;
+
+src\main\java\com\chatapp\controller\UserController.java - Web service ;
 
 
 # Wall
